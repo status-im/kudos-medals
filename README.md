@@ -1,4 +1,5 @@
 <img alt="Sample medal" src="/src/comp.svg">
+<img alt="Sample medal" src="/src/composites/manual/composite.svg">
 
 ## Ref
 
