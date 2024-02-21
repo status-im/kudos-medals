@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="200px" height="200px" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+    <filter id="dropshadow" height="200%">
+        <feGaussianBlur in="SourceAlpha" stdDeviation="5"/> <!-- stdDeviation is how much to blur -->
+        <feOffset dx="10" dy="10" result="offsetblur"/> <!-- how much to offset -->
+        <feComponentTransfer>
+            <feFuncA type="linear" slope="0.5"/> <!-- slope is the opacity of the shadow -->
+        </feComponentTransfer>
+        <feMerge>
+            <feMergeNode/> <!-- this contains the offset blurred image -->
+            <feMergeNode in="SourceGraphic"/> <!-- this contains the element that the filter is applied to -->
+        </feMerge>
+    </filter>
+
+    <image style="filter:url(#dropshadow)" x="0" y="0" width="100%" height="100%" href="./medal_2.svg"/>
+    <image style="filter:url(#dropshadow)" x="166" y="66" width="133" height="133" href="./status_logo.svg"/>
+    <image x="340" y="540" width="120" height="120" href="./crew_2.svg"/>
+    <image style="filter:url(#dropshadow)" x="250" y="150" width="300" height="300" href="./polish_hand.svg"/>
+</svg>
