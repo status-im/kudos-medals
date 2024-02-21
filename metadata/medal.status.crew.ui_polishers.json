@@ -1,7 +1,7 @@
 {
   "name": "Kudos Medal",
   "description": "An inspiring and moving description that ",
-  "image": "./src/composites/composite.svg",
+  "image": "ipfs/<HASH>/composites/composite.svg",
   "external_url": "https://link-to-the-crew.com",
   "attributes": [
     {
