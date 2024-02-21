@@ -1,6 +1,12 @@
-| medal:status:crew:ui_polishers                                      | medal:status:crew:perf | medal:status:anniversary:6 | medal:logos:anniversary:6 | medal:status:anniversary:1 | medal:status:crew_captain:ui_polishers |
-|---------------------------------------------------------------------|------------------------|----------------------------|---------------------------|----------------------------|----------------------------------------|
-| <img alt="Sample medal" src="/src/composites/manual/composite.svg"> |                        |                            |                           |                            |                                        |
+
+| Type                                                                  | Image                                      |
+|-----------------------------------------------------------------------|--------------------------------------------|
+| <img alt="Sample medal" src="/src/composites/manual/composite.svg">   | **medal:status:crew:ui_polishers**         |
+| <img alt="Sample medal" src="/src/composites/manual/composite_2.svg"> | **medal:status:crew:perf**                 |
+| <img alt="Sample medal" src="/src/composites/manual/composite_3.svg"> | **medal:status:anniversary:6**             |
+| <img alt="Sample medal" src="/src/composites/manual/composite_2.svg"> | **medal:status:logos:6**                   |
+| <img alt="Sample medal" src="/src/composites/manual/composite_2.svg"> | **medal:status:anniversary:1**             |
+| <img alt="Sample medal" src="/src/composites/manual/composite_2.svg"> | **medal:status:crew_captain:ui_polishers** |
 
 ## Ref
 
