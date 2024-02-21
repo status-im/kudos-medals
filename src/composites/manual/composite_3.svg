@@ -33,6 +33,6 @@
         </svg>
     </g>
     <g >
-        <text style="filter:url(#dropshadow);font:bold 12px sans-serif;" x="8." y="13.2" fill="#5B6DEE">6</text>
+        <text style="filter:url(#dropshadow);font:bold 12px sans-serif;" x="8.0" y="13.2" fill="#5B6DEE">6</text>
     </g>
 </svg>
