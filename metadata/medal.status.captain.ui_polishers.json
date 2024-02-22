@@ -1,0 +1,39 @@
+{
+  "name": "Kudos Medal",
+  "description": "An inspiring and moving description that ",
+  "image": "ipfs/<HASH>/composites/composite.svg",
+  "external_url": "https://link-to-this-repo.com",
+  "attributes": [
+    {
+      "trait_type": "Award Type",
+      "value": "Kudos Medal"
+    },
+    {
+      "trait_type": "Project",
+      "value": "Status"
+    },
+    {
+      "trait_type": "Medal Type",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Crew Name",
+      "value": "Seamside Polishers"
+    },
+    {
+      "display_type": "url",
+      "trait_type": "Link",
+      "value": "https://crew-url.io"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "From",
+      "value": 1546360800
+    },
+    {
+      "display_type": "date",
+      "trait_type": "To",
+      "value": 1546460800
+    }
+  ]
+}
