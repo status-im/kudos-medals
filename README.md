@@ -1,3 +1,8 @@
+|                                                                     |                                                                       |                                                                        |                                                                       |                                                                       |                                                                       |
+|---------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| <img alt="Sample medal" src="/src/composites/manual/composite.svg"> | <img alt="Sample medal" src="/src/composites/manual/composite_2.svg"> | <img alt="Sample medal" src="/src/composites/manual/composite_3_.svg"> | <img alt="Sample medal" src="/src/composites/manual/composite_4.svg"> | <img alt="Sample medal" src="/src/composites/manual/composite_5.svg"> | <img alt="Sample medal" src="/src/composites/manual/composite_6.svg"> |
+
+
 
 | Type                                                                   | Image                                       | Data                                                             |
 |------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------------------------|
